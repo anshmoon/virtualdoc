@@ -1,1 +1,1 @@
-web: gunicorn projectName.wsgi --log-file -
+web: gunicorn TestDia.wsgi --log-file -
